@@ -1,0 +1,6 @@
+﻿FinalFix.obj : error LNK2019: unresolved external symbol _delete_person referenced in function _main
+FinalFix.obj : error LNK2019: unresolved external symbol _get_gen referenced in function _main
+FinalFix.obj : error LNK2019: unresolved external symbol _printdb referenced in function _main
+FinalFix.obj : error LNK2019: unresolved external symbol _search_by_name referenced in function _main
+FinalFix.obj : error LNK2019: unresolved external symbol _quit referenced in function _main
+C:\Users\pc\Downloads\FinalProject\Debug\finalproject.exe : fatal error LNK1120: 5 unresolved externals
